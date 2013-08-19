@@ -1,0 +1,4 @@
+state a b c out
+0 1 2 0 c
+1 - 2 0 a
+2 0 2 1 b
